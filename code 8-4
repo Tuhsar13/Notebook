@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+int main ()
+{
+    float a;
+    int b;
+    cout<<"Enter the value for a:";
+    cin>>a;
+    b=a;
+    
+    cout<<"Decimal value="<<a<<endl;
+    cout<<"Integer value="<<b;
+    return 0;
+}
